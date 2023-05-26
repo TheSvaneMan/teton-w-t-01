@@ -20,6 +20,7 @@ node index.js
 localhost:8080
 ```
 
+To simulate another user joining the call, open a new tab or window and go to the same url and select the channel you joined previously. You should then see 2 real-time feeds, both including audio and video streams.
 // ----------------- Solution ----------------- //
 - Details on the solution can be read in the PDF on the about page
 - The PDF is located in the assets folder in the root of the project.
