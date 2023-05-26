@@ -19,3 +19,9 @@ node index.js
 ```
 localhost:8080
 ```
+// ----------------- Solution ----------------- //
+- Details on the solution can be read in the PDF on the about page
+- The PDF is located in the assets folder in the root of the project.
+
+// ----------------- Conclusion ----------------- //
+- I had fun building the project and will a full version in the near future.
