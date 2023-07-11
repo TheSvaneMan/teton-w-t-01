@@ -31,4 +31,4 @@ To simulate another user joining the call, open a new tab or window and go to th
 - All connections are peer to peer and no remote logging or connections are made to the server instance when running.
 
 // ----------------- Conclusion ----------------- //
-- I had fun building the project and will a full version in the near future.
+- I had fun building the project and will potentially have a full version in the near future.
