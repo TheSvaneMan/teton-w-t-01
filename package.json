@@ -1,15 +1,22 @@
 {
-  "name": "webrtc-codelab",
-  "version": "0.0.1",
-  "description": "WebRTC codelab",
+  "name": "teton-wt-modern",
+  "version": "1.0.0",
+  "description": "Modernized WebRTC Walkie-Talkie",
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "dev": "bunx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "build": "bunx tailwindcss -i ./src/input.css -o ./dist/output.css",
+    "start": "bun index.js"
   },
   "dependencies": {
-    "node-static": "^0.7.10",
-    "socket.io": "^2.0.4"
+    "baseline-browser-mapping": "^2.10.13",
+    "caniuse-lite": "^1.0.30001784",
+    "express": "^4.22.1",
+    "socket.io": "^4.8.3"
   },
   "devDependencies": {
-    "tailwindcss": "^3.3.2"
+    "tailwindcss": "^3.4.19"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
