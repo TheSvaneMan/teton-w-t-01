@@ -10,7 +10,7 @@
   "dependencies": {
     "baseline-browser-mapping": "^2.10.13",
     "caniuse-lite": "^1.0.30001784",
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "socket.io": "^4.8.3"
   },
   "devDependencies": {
